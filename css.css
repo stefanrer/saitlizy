@@ -1,0 +1,51 @@
+body
+{
+    background-color:#FFF0F5;
+}
+#colred 
+{
+    color: red;
+}
+#colred1
+{ background-COLOR:Red}
+.quiz {  
+background-color:White;
+border: 2px solid;
+margin: auto;
+border-color: #123456;
+width: 30%;
+}
+header {
+font-family: Calibri;
+    font-size: 36px;
+    padding: 10px;
+    background-color:#FFF0F5;
+    opacity: 1;
+    text-align: center;
+}
+#c2 {
+    text-align:center;
+}
+table {
+    height:auto;
+    width:100%;
+    border:5px solid #7B68EE;
+}
+tr {
+    border:5px solid #7B68EE;
+}
+#menu {
+    height:7%;
+    background-color:#c9107f;
+}
+td {
+    width:33%;
+    font-size:30px;
+    text-align:center;
+}
+#c3 {
+    text-align:left;
+}
+#c1 {
+    text-align:left;
+}
